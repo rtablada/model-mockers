@@ -1,6 +1,11 @@
 {
     "name": "rtablada/model-mockers",
-    "description": "",
+    "description": "A wrapper that allows for wicked fast mocking of Eloquent Models",
+    "keywords": [
+        "laravel",
+        "mockery",
+        "testing"
+    ],
     "authors": [
         {
             "name": "Ryan Tablada",
@@ -17,5 +22,6 @@
             "Rtablada\\ModelMockers": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "license": "MIT"
 }
