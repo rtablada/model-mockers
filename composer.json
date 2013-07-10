@@ -4,7 +4,10 @@
     "keywords": [
         "laravel",
         "mockery",
-        "testing"
+        "testing",
+        "TDD",
+        "Eloquent",
+        "mock objects"
     ],
     "authors": [
         {
